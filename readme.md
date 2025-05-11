@@ -62,7 +62,7 @@ O sistema é composto por:
    * Gráficos de temperatura e umidade em tempo real
    * Registro histórico para análise de tendências
 
-![Diagrama de Conexão](project.png)
+![Diagrama de Conexão](./project.png)
 *Diagrama mostrando a conexão entre ESP32, sensor DHT22 e módulos de relé*
 
 ## 4. Integração com ThingSpeak
