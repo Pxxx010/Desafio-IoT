@@ -1,5 +1,21 @@
 # Sistema de Automação para Ventilação de Servidores
 
+---
+
+## 📚 Sumário
+
+- [🔎 1. Problema/Oportunidade e Justificativa](#1-problemaoportunidade-e-justificativa)
+- [💡 2. Ideia da Solução](#2-ideia-da-solu%C3%A7%C3%A3o)
+- [🛠️ 3. Esboço da Arquitetura](#3-esbo%C3%A7o-da-arquitetura)
+- [☁️ 4. Integração com ThingSpeak](#4-integra%C3%A7%C3%A3o-com-thingspeak)
+- [💻 5. Código do Projeto](#5-c%C3%B3digo-do-projeto)
+- [🧪 6. Implementação no Wokwi](#6-implementa%C3%A7%C3%A3o-no-wokwi)
+- [🏆 7. Benefícios do Sistema](#7-benef%C3%ADcios-do-sistema)
+- [🚀 8. Possíveis Expansões Futuras](#8-poss%C3%ADveis-expans%C3%B5es-futuras)
+- [📚 9. Referências](#9-refer%C3%AAncias)
+
+---
+
 ## 1. Problema/Oportunidade e Justificativa
 
 ### Problema
